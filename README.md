@@ -6,14 +6,15 @@ the interviews ....
 # Questions:
   1. Why do you care about GME?
   2. How do you find out what GME events are available to you?
-  3. Are you satisfied with how you currently find what GME events are available to you? Why or why not?
-  4. How do you find out which GME you need?
-  5. Are you satisfied with how you currently find which GME you need? Why or why not?
-  6. What would make GME easier for you?
-  7. Do you think being able to receive GME events via text message would help you?
-  8. Are you satisfied after you use anchorlink?
-  9. Do you hear about events you wish you could have gone to but didn't know about?
-  10. How could hearing about GME events be improved or is it fine the way it is?
+  3. Why do you use the method you specified in question two to find out what GME events are available to you?
+  4. Are you satisfied with how you currently find what GME events are available to you? Why or why not?
+  5. How could hearing about GME events be improved or is it fine the way it is?
+  6. Are you ever frustrated by GME? If so, what frustrates you? 
+  7. Could it be easier to finish GME? How?
+  8. Do you think being able to receive GME events via text message would help you?
+  9. What was your favorite (or least favorite) GME you've been to and why?
+  10. Do you hear about events you wish you could have gone to but didn't know about?
+
 
 # Answers:
 
