@@ -71,3 +71,12 @@ The goal of this project is then to create an application using Clojure and pote
   2. Yes always after the fact. I rarely hear about cool GME events before they happen. Oftentimes people will just have come back from an event that they thought was a lot of fun but I had no idea about.
   3. Sometimes yes. 
   
+# Requirements
+  1. Information is able to be conveyed via text message (keep in mind the size/amount of info we are sending to the user)
+  2. Able to grab current date and search a url based on the date
+  3. Events for a week and a specific date will be able to be displayed
+  4. Events for a certain track of GME will be able to be displayed
+  5. Formatting of event information will be convenient and easy to read
+
+# Development Approach
+  The work that we did in assignments 1-3 should be easily modifiable to fit the specs of the new application. I am first going to work on deciphering the URL for anchorlink based on different filters for specific GME events and dates. Once I am able to decipher how the URL changes based on different parameters, I should be able to hard code that URL into the application that the user can then query based on their desired info. The most important development decisions will be how I structure the map that I'm going to use to store the events. Right now I'm thinking that I will have a map with the structure GME --> date --> track --> url that I can then pull based on the user query. I should be able to fairly easily adapt the functions we've already implemented as part of the previous assignments, specifically using the experts-register function and the ask-experts function, except instead of an experts and a messages I'm going to be dealing with URLs. The thought behind returning a URL to the user instead of storing the events in the map itself is that it's less storage space (anchorlink is already storing it once why should we duplicate it) and it still does all the work for the user (removes the manual selecting of parameters and logging into anchorlink, plus its accessible from a phone). Overall, I'm optimistic this project can be completed within the proposed timeline and that it will provide tangible benefit to the user.
